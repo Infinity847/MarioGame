@@ -1,0 +1,1 @@
+We will be adding sound effects for: 1. When the mario jumps 2. When the mario collects coin 3. When the game gets over 4. When the mario kills the mushroom (enemy) 5. When the mario is bitten by mushroom (enemy) OR when the mario goes in the hole OR when the mario goes out of the screen
